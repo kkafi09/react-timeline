@@ -1,10 +1,13 @@
-import './App.css';
+import React from "react";
+import "./App.css";
+import TimeLine from "./components/Timeline";
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>    
+    <>
+      <h1>React Timeline</h1>
+      <TimeLine />
+    </>
   );
 }
 
