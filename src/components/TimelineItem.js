@@ -11,6 +11,7 @@ const TimelineItem = ({ data }) => (
           {data.link.text}
         </a>
       )}
+      <span className="circle"></span>
     </div>
   </div>
 );

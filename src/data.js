@@ -4,7 +4,7 @@ const data = [
     date: "3 Maret 2022",
     category: {
       tag: "medium",
-      color: "#010f69",
+      color: "#eeeffd",
     },
     link: {
       url: "www.google.com",
@@ -16,7 +16,7 @@ const data = [
     date: "3 Maret 2022",
     category: {
       tag: "medium",
-      color: "#010f69",
+      color: "#bb11ee",
     },
     link: {
       url: "www.google.com",
@@ -28,7 +28,7 @@ const data = [
     date: "3 Maret 2022",
     category: {
       tag: "medium",
-      color: "#010f69",
+      color: "#2442d2",
     },
     link: {
       url: "www.google.com",
